@@ -1,0 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap");
+@import "tailwindcss";
+
+@theme {
+  --font-koryan: "Nanum Pen Script", cursive;
+  --color-val: #ffc5e6;
+}
